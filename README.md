@@ -26,7 +26,7 @@ Things You Need To Do
 This does not just work out of the box, There are a couple of things you need to do. 
 
 1. Change the WiFi credentials. 
-2. Change your Naomi IP Address to 192.168.2.2, The raspberry pi's ethernet runs completly seperatly from the Wifi network. It has a static IP of 192.168.2.
+2. Change your Naomi IP Address to 192.168.2.2, The raspberry pi's ethernet runs completly seperatly from the Wifi network. It has a static IP of 192.168.2.1
 
 Removing Games
 =====
