@@ -31,7 +31,7 @@ This does not just work out of the box, There are a couple of things you need to
 Removing Games
 =====
 If you want / need to remove games from the web front-end, you will need to edit the index.html file in the 
-/var/www/ folder, open it with your favourite text editor (I recommend notepad++) and find your will see plenty of lines like this:
+/var/www/ folder, open it with your favourite text editor (I recommend notepad++) and you will see plenty of lines like this:
 
     <figure><a href="javascript:void(0)" class="thumb label inside bottom" data-label="RomName" onclick="RomName();"><img src="roms/RomName/RomName.jpg" alt="RomName" /></a></figure>
 
